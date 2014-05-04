@@ -1,5 +1,5 @@
 RSCoin (IRC) - a 'faster' version of Litecoin
-
+BTW, Hello Nick ;)
 Development process
 ===================
 
